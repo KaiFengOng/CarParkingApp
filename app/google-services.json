@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "769705529160",
+    "firebase_url": "https://okpark-25310.firebaseio.com",
+    "project_id": "okpark-25310",
+    "storage_bucket": "okpark-25310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769705529160:android:2fa6f6dee47a6a6c",
+        "android_client_info": {
+          "package_name": "com.androidatc.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769705529160-1sll567tkhubo810ac4paf1ed80e3ote.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidatc.loginapp",
+            "certificate_hash": "af041542390e5aa9313f9a825cccb0352b860bf5"
+          }
+        },
+        {
+          "client_id": "769705529160-nc3tigtoj5tk568bb2gpnr95qnqeusqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw8XryElJHL3qE2ffVDNxhwSXyKIx8q-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769705529160-nc3tigtoj5tk568bb2gpnr95qnqeusqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
